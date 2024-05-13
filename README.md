@@ -16,7 +16,7 @@
 ### Competitive Programming Profile :fire:
 
 #### Leetcode
-#### ![tejus_tiwari LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=tiwari_tejus&theme=dark)
+#### ![tejus_tiwari LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=TJ_3224&theme=dark)
 
 
 ### Here's my github README stats:
