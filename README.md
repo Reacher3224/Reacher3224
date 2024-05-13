@@ -6,20 +6,20 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/tejus.tiwari.svg?style=social&label=Followers)](https://github.com/tiwari-tejus?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Aryan+Singh!;I'm+a+learning+developer...;I'm+a+CRAZY+tech+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Tejus+Tiwari!;I'm+a+learning+developer...;I'm+a+CRAZY+tech+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
-- **I'm a ***HUGE Harry Potter fan*** ⚡🧙🏻‍♂️**
--  **I'm a hopeful web and app developer 👩🏻‍💻**
--  **I am a true science lover 🔬**
--  **Finally, I ***LOVE*** playing Valorant/BGMI 🔫!**
+- **I'm a ***HUGE Formula F1 fan*** ⚡🧙🏻‍♂️**
+-  **I'm a Web App Developer 👩🏻‍💻**
+-  **I am a Cloud Enthosiast 🔬**
+-  **Finally, I F1 2024 🔫!**
 
 ### Competitive Programming Profile :fire:
 #### Codeforces
 #### <a href="https://codeforces.com/profile/tejus_tiwari"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-programming-score.herokuapp.com/api/codeforces/singh_aryan&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=259200" alt="singh_aryan's profile on Codeforces" title="singh_aryan's profile on Codeforces"></a>
 
 #### Codechef
-#### <a href="https://www.codechef.com/users/tejus_tiwari"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/singh_aryan&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="singh_aryan's profile on CodeChef" title="singh_aryan's profile on CodeChef"></a>
+#### <a href="https://www.codechef.com/users/tejus_tiwari"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/tiwari_tejus&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="tiwari_tejus's profile on CodeChef" title="tiwari_tejus's profile on CodeChef"></a>
 
 #### Leetcode
 #### ![tejus_tiwari LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=tiwari_tejus&theme=dark)
@@ -27,9 +27,9 @@
 
 ### Here's my github README stats:
 
-![Singh-Aryan GitHub stats](https://github-readme-stats.vercel.app/api?username=Singh-Aryan&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Singh-Aryan&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Singh-Aryan)](https://github.com/ryo-ma/github-profile-trophy)
+![Singh-Aryan GitHub stats](https://github-readme-stats.vercel.app/api?username=tiwari_tejus&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiwari-tejus&theme=radical)](https://git.io/streak-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tiwari-tejus)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Here is the languages and Tech that I am currently working on:
 
