@@ -2,7 +2,6 @@
 
 ![image](london.jpg)
 
-<img src="https://profile-counter.glitch.me/tiwari-tejus/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/tejus.tiwari.svg?style=social&label=Followers)](https://github.com/tiwari-tejus?tab=followers)
 
@@ -15,11 +14,6 @@
 -  **Finally, I F1 2024 🔫!**
 
 ### Competitive Programming Profile :fire:
-#### Codeforces
-#### <a href="https://codeforces.com/profile/tejus_tiwari"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-programming-score.herokuapp.com/api/codeforces/singh_aryan&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=259200" alt="singh_aryan's profile on Codeforces" title="singh_aryan's profile on Codeforces"></a>
-
-#### Codechef
-#### <a href="https://www.codechef.com/users/tejus_tiwari"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/tiwari_tejus&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="tiwari_tejus's profile on CodeChef" title="tiwari_tejus's profile on CodeChef"></a>
 
 #### Leetcode
 #### ![tejus_tiwari LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=tiwari_tejus&theme=dark)
